@@ -3,4 +3,4 @@ project(testgit)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(testgit main.cpp)
+add_executable(testgit main.cpp subfunc.cpp)
